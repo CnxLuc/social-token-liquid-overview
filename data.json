@@ -722,6 +722,294 @@
       },
       "teamStatus": "Doxed (Tuom Holmberg, co-founder)",
       "activity": "Active"
+    },
+    {
+      "id": "limitless",
+      "name": "Limitless",
+      "ticker": "LMTS",
+      "chain": "Base",
+      "marketCap": 21260000,
+      "fdv": 161580000,
+      "price": 0.1615,
+      "athPrice": 0.7175,
+      "pctFromAth": -77.5,
+      "circulatingPct": 13,
+      "holders": null,
+      "category": "Social",
+      "description": "Decentralized prediction market on Base. $500M+ cumulative volume, $200M in January 2026. $10M seed from 1confirmation, Coinbase Ventures, DCG. Upcoming Coinbase listing.",
+      "catalysts": [
+        "Coinbase listing imminent",
+        "Base ecosystem growth",
+        "Prediction market narrative"
+      ],
+      "risks": [
+        "Only 13% circulating \u2014 massive unlock overhang",
+        "FDV $162M vs MCap $21M disconnect",
+        "Competing with Polymarket"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 7,
+        "communityQuality": 5,
+        "tokenLinkage": 6,
+        "marketStructure": 4,
+        "founderExecution": 7,
+        "distributionReflexivity": 6,
+        "valuationAsymmetry": 5,
+        "culturalMoat": 3,
+        "catalystsTiming": 7
+      },
+      "penalties": {
+        "unlockCliffs": -5,
+        "insiderConcentration": -3,
+        "legalRisk": -2,
+        "treasuryRunway": 0,
+        "smartContractRisk": -1,
+        "platformDependency": 0
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "aixbt",
+      "name": "AIXBT",
+      "ticker": "AIXBT",
+      "chain": "Base",
+      "marketCap": 26780000,
+      "fdv": 26810000,
+      "price": 0.0268,
+      "athPrice": 0.9475,
+      "pctFromAth": -97.2,
+      "circulatingPct": 100,
+      "holders": null,
+      "category": "Social",
+      "description": "AI agent providing crypto market intelligence on Base (Virtuals). Token gates terminal access (600K threshold). Forbes-covered, Binance-listed. 48% win rate on shilled tokens.",
+      "catalysts": [
+        "AI narrative recovery",
+        "Terminal product expansion",
+        "Binance listing driving liquidity"
+      ],
+      "risks": [
+        "-97% from ATH \u2014 narrative exhaustion risk",
+        "AI agent hype cycle cooling",
+        "Virtuals protocol dependency"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 5,
+        "communityQuality": 6,
+        "tokenLinkage": 7,
+        "marketStructure": 6,
+        "founderExecution": 5,
+        "distributionReflexivity": 5,
+        "valuationAsymmetry": 6,
+        "culturalMoat": 6,
+        "catalystsTiming": 4
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": -1,
+        "treasuryRunway": -2,
+        "smartContractRisk": -1,
+        "platformDependency": -2
+      },
+      "teamStatus": "Pseudonymous",
+      "activity": "Active"
+    },
+    {
+      "id": "elizaos",
+      "name": "ElizaOS",
+      "ticker": "ELIZAOS",
+      "chain": "Solana",
+      "marketCap": 11490000,
+      "fdv": 14260000,
+      "price": 0.001297,
+      "athPrice": 0.03946,
+      "pctFromAth": -96.7,
+      "circulatingPct": 81,
+      "holders": null,
+      "category": "Social",
+      "description": "Open-source AI agent framework (formerly ai16z). Migrated token 1:6. Real developer adoption but token captures minimal value. Framework usage \u2260 token revenue.",
+      "catalysts": [
+        "Developer ecosystem growth",
+        "AI agent framework adoption",
+        "Potential token utility redesign"
+      ],
+      "risks": [
+        "-97% from ATH \u2014 deep capitulation",
+        "Token-product linkage is weak (open-source = free)",
+        "Branding confusion from AI16Z rebrand"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 4,
+        "communityQuality": 5,
+        "tokenLinkage": 3,
+        "marketStructure": 5,
+        "founderExecution": 6,
+        "distributionReflexivity": 4,
+        "valuationAsymmetry": 5,
+        "culturalMoat": 4,
+        "catalystsTiming": 3
+      },
+      "penalties": {
+        "unlockCliffs": -1,
+        "insiderConcentration": -1,
+        "legalRisk": -1,
+        "treasuryRunway": -2,
+        "smartContractRisk": -1,
+        "platformDependency": 0
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "clawd",
+      "name": "clawd.atg.eth",
+      "ticker": "CLAWD",
+      "chain": "Base",
+      "marketCap": 6195000,
+      "fdv": 6195000,
+      "price": 6e-05,
+      "athPrice": 0.0003713,
+      "pctFromAth": -83.3,
+      "circulatingPct": 100,
+      "holders": null,
+      "category": "Social",
+      "description": "AI agent built by Austin Griffith (Ethereum Foundation / scaffold-eth). Builds onchain apps autonomously on Base. Part of OpenClaw framework. Very early stage.",
+      "catalysts": [
+        "Austin Griffith credibility",
+        "Base AI ecosystem growth",
+        "OpenClaw framework expansion"
+      ],
+      "risks": [
+        "Token has no clear value capture mechanism",
+        "Very thin DEX-only liquidity",
+        "Product is demo-stage, not proven PMF"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 4,
+        "communityQuality": 5,
+        "tokenLinkage": 3,
+        "marketStructure": 5,
+        "founderExecution": 7,
+        "distributionReflexivity": 3,
+        "valuationAsymmetry": 5,
+        "culturalMoat": 4,
+        "catalystsTiming": 4
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": 0,
+        "treasuryRunway": -2,
+        "smartContractRisk": -2,
+        "platformDependency": -1
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "kellyclaude",
+      "name": "KellyClaude",
+      "ticker": "KELLYCLAUDE",
+      "chain": "Base",
+      "marketCap": 6130000,
+      "fdv": 6130000,
+      "price": 6.132e-05,
+      "athPrice": 0.0001601,
+      "pctFromAth": -62.0,
+      "circulatingPct": 100,
+      "holders": null,
+      "category": "Social",
+      "description": "AI 'company' that runs itself with 20+ autonomous sub-agents on Base. Novel concept \u2014 autonomous AI organization. No confirmed revenue or real product usage metrics.",
+      "catalysts": [
+        "AI autonomous company narrative",
+        "Potential agent-to-agent economy",
+        "Novel concept attracting attention"
+      ],
+      "risks": [
+        "No clear product-market fit",
+        "Token has no fee/revenue mechanism",
+        "Pseudonymous team, unproven"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 3,
+        "communityQuality": 4,
+        "tokenLinkage": 3,
+        "marketStructure": 4,
+        "founderExecution": 4,
+        "distributionReflexivity": 3,
+        "valuationAsymmetry": 5,
+        "culturalMoat": 4,
+        "catalystsTiming": 3
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": -1,
+        "treasuryRunway": -2,
+        "smartContractRisk": -2,
+        "platformDependency": 0
+      },
+      "teamStatus": "Pseudonymous",
+      "activity": "Active"
+    },
+    {
+      "id": "tibbir",
+      "name": "Ribbita",
+      "ticker": "TIBBIR",
+      "chain": "Base",
+      "marketCap": 157080000,
+      "fdv": 157080000,
+      "price": 0.157,
+      "athPrice": 0.4399,
+      "pctFromAth": -64.3,
+      "circulatingPct": 100,
+      "holders": 71000,
+      "category": "Social",
+      "description": "AI agent on Virtuals protocol with alleged Ribbit Capital connection. $157M MCap, 71K holders. Speculation-driven \u2014 the Ribbit Capital link is unconfirmed. No clear product revenue.",
+      "catalysts": [
+        "Ribbit Capital connection confirmation would be massive",
+        "Virtuals ecosystem growth",
+        "Institutional narrative intrigue"
+      ],
+      "risks": [
+        "$157M FDV with no confirmed revenue \u2014 expensive",
+        "Ribbit Capital link unconfirmed",
+        "Virtuals protocol dependency"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 4,
+        "communityQuality": 5,
+        "tokenLinkage": 4,
+        "marketStructure": 7,
+        "founderExecution": 4,
+        "distributionReflexivity": 4,
+        "valuationAsymmetry": 3,
+        "culturalMoat": 6,
+        "catalystsTiming": 5
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": -1,
+        "treasuryRunway": 0,
+        "smartContractRisk": -1,
+        "platformDependency": -2
+      },
+      "teamStatus": "Pseudonymous (alleged Ribbit Capital)",
+      "activity": "Active"
     }
   ],
   "killedTokens": [
@@ -794,6 +1082,16 @@
       "fdv": 45830000,
       "killGateReason": "97.5% from ATH. Azuki-linked culture coin with unproven product-market fit. anime.com beta has minimal traction. Founder credibility issues from Azuki saga. No demonstrated real usage beyond speculation.",
       "category": "Entertainment/Fandom"
+    },
+    {
+      "id": "felix",
+      "name": "FELIX",
+      "ticker": "FELIX",
+      "chain": "Base",
+      "marketCap": 3320000,
+      "fdv": 3320000,
+      "killGateReason": "Pure meme/AI persona token with no consumer crypto product. Token doesn't matter to any product. Community is speculative/mercenary. Launched Feb 2026, micro-cap.",
+      "category": "Social"
     }
   ],
   "nfts": [
@@ -1253,7 +1551,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-12",
+    "lastUpdated": "2026-03-13",
     "methodology": "Kill Gate \u2192 100-point weighted score \u2192 Penalty overlay. Product truth = revenue/usage (NOT volume). Token scored on specific liquid asset, not parent brand halo.",
     "scoringVersion": "v2",
     "excludedProjects": [
@@ -1268,17 +1566,17 @@
     "chains": {
       "Solana": {
         "color": "#9945FF",
-        "tokens": 5,
+        "tokens": 8,
         "nfts": 2
       },
       "Base": {
         "color": "#0052FF",
-        "tokens": 3,
+        "tokens": 7,
         "nfts": 0
       },
       "Ethereum": {
         "color": "#627EEA",
-        "tokens": 7,
+        "tokens": 6,
         "nfts": 7
       }
     }
