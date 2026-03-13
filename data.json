@@ -1,0 +1,1286 @@
+{
+  "tokens": [
+    {
+      "id": "pump-fun",
+      "name": "Pump.fun",
+      "ticker": "PUMP",
+      "chain": "Solana",
+      "marketCap": 1203219319,
+      "fdv": 2037332726,
+      "price": 0.002,
+      "athPrice": 0.0088,
+      "pctFromAth": -76.9,
+      "circulatingPct": 59,
+      "holders": null,
+      "category": "Social",
+      "description": "Solana memecoin launchpad that lets anyone mint and distribute tokens in seconds. Live, high-volume creation surface with $712M cumulative revenue and $24.5M in last 30 days.",
+      "catalysts": [
+        "Continued revenue growth",
+        "Expansion beyond memecoins",
+        "Creator monetization tools"
+      ],
+      "risks": [
+        "Regulatory risk on token launches",
+        "FDV already >$2B",
+        "Dependent on memecoin cycle"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 9,
+        "communityQuality": 6,
+        "tokenLinkage": 5,
+        "marketStructure": 6,
+        "founderExecution": 7,
+        "distributionReflexivity": 8,
+        "valuationAsymmetry": 3,
+        "culturalMoat": 8,
+        "catalystsTiming": 7
+      },
+      "penalties": {
+        "unlockCliffs": -3,
+        "insiderConcentration": -2,
+        "legalRisk": -3,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "metadao",
+      "name": "MetaDAO",
+      "ticker": "META",
+      "chain": "Solana",
+      "marketCap": 75317874,
+      "fdv": 75317874,
+      "price": 30.86,
+      "athPrice": 150.84,
+      "pctFromAth": -69.3,
+      "circulatingPct": 100,
+      "holders": null,
+      "category": "Governance",
+      "description": "Solana-based futarchy and governance platform. $5-11K daily revenue, P/E ratio 43.14, 10 launches, $3.6M cumulative raised.",
+      "catalysts": [
+        "More launches",
+        "ProShop adoption",
+        "Governance mechanism validation"
+      ],
+      "risks": [
+        "Novel legal/regulatory territory",
+        "Thin liquidity",
+        "Dependent on Solana ecosystem"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 5,
+        "communityQuality": 6,
+        "tokenLinkage": 8,
+        "marketStructure": 4,
+        "founderExecution": 7,
+        "distributionReflexivity": 6,
+        "valuationAsymmetry": 7,
+        "culturalMoat": 4,
+        "catalystsTiming": 5
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": -2,
+        "treasuryRunway": -1,
+        "smartContractRisk": -2,
+        "platformDependency": -1
+      },
+      "teamStatus": "Pseudonymous with track record",
+      "activity": "Active"
+    },
+    {
+      "id": "zora",
+      "name": "Zora",
+      "ticker": "ZORA",
+      "chain": "Base",
+      "marketCap": 77308724,
+      "fdv": 173399501,
+      "price": 0.0173,
+      "athPrice": 0.1456,
+      "pctFromAth": -88.1,
+      "circulatingPct": 45,
+      "holders": null,
+      "category": "Creator Economy",
+      "description": "Base-native creator platform where posts, profiles, and creator identities become tradeable coins. Paradigm-backed, migrating to creators.zora.com.",
+      "catalysts": [
+        "Creator adoption growth",
+        "Base ecosystem expansion",
+        "Revenue model maturation"
+      ],
+      "risks": [
+        "Revenue still early",
+        "Token unlock pressure",
+        "Product direction evolving"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 4,
+        "communityQuality": 7,
+        "tokenLinkage": 4,
+        "marketStructure": 4,
+        "founderExecution": 7,
+        "distributionReflexivity": 6,
+        "valuationAsymmetry": 5,
+        "culturalMoat": 7,
+        "catalystsTiming": 6
+      },
+      "penalties": {
+        "unlockCliffs": -4,
+        "insiderConcentration": -2,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": -1
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "pudgy-penguins-token",
+      "name": "Pudgy Penguins",
+      "ticker": "PENGU",
+      "chain": "Solana",
+      "marketCap": 449583443,
+      "fdv": 570600000,
+      "price": 0.0072,
+      "athPrice": 0.0685,
+      "pctFromAth": -89.5,
+      "circulatingPct": 79,
+      "holders": null,
+      "category": "NFT/IP",
+      "description": "Official fungible token for the Pudgy Penguins ecosystem. $50M+ annual revenue from retail partnerships, targeting $120M in 2026. Pudgy World game launched March 2026.",
+      "catalysts": [
+        "Pudgy World game traction",
+        "Retail expansion",
+        "Brand licensing"
+      ],
+      "risks": [
+        "Value capture unclear vs. NFT brand",
+        "Mid-cap size limits upside",
+        "Narrative-driven price"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 7,
+        "communityQuality": 8,
+        "tokenLinkage": 4,
+        "marketStructure": 6,
+        "founderExecution": 9,
+        "distributionReflexivity": 7,
+        "valuationAsymmetry": 4,
+        "culturalMoat": 9,
+        "catalystsTiming": 8
+      },
+      "penalties": {
+        "unlockCliffs": -1,
+        "insiderConcentration": 0,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "moca",
+      "name": "Moca Network",
+      "ticker": "MOCA",
+      "chain": "Ethereum",
+      "marketCap": 56280000,
+      "fdv": 127060000,
+      "price": 0.0143,
+      "athPrice": 0.4774,
+      "pctFromAth": -97.0,
+      "circulatingPct": 44,
+      "holders": null,
+      "category": "Identity/Social",
+      "description": "Animoca's identity, loyalty, and community layer. 3.3M AIR accounts, MocaPoint, and community/loyalty surfaces connected to Animoca network.",
+      "catalysts": [
+        "AIR account adoption",
+        "Animoca ecosystem growth",
+        "Identity layer traction"
+      ],
+      "risks": [
+        "97% from ATH",
+        "Sprawling execution",
+        "Animoca network dependency"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 3,
+        "communityQuality": 4,
+        "tokenLinkage": 3,
+        "marketStructure": 3,
+        "founderExecution": 5,
+        "distributionReflexivity": 4,
+        "valuationAsymmetry": 6,
+        "culturalMoat": 3,
+        "catalystsTiming": 4
+      },
+      "penalties": {
+        "unlockCliffs": -4,
+        "insiderConcentration": -3,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": -2
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "doodles-token",
+      "name": "Doodles",
+      "ticker": "DOOD",
+      "chain": "Solana",
+      "marketCap": 22513619,
+      "fdv": 28958902,
+      "price": 0.0029,
+      "athPrice": 0.0175,
+      "pctFromAth": -83.5,
+      "circulatingPct": 78,
+      "holders": null,
+      "category": "NFT/IP",
+      "description": "Official token for Doodles and DreamNet decentralized storytelling stack. Extends entertainment IP brand into fungible asset.",
+      "catalysts": [
+        "DreamNet launch",
+        "Doodles IP expansion",
+        "Content/entertainment traction"
+      ],
+      "risks": [
+        "Early token utility",
+        "Execution risk on DreamNet",
+        "Small cap volatility"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 3,
+        "communityQuality": 5,
+        "tokenLinkage": 3,
+        "marketStructure": 3,
+        "founderExecution": 5,
+        "distributionReflexivity": 4,
+        "valuationAsymmetry": 7,
+        "culturalMoat": 5,
+        "catalystsTiming": 5
+      },
+      "penalties": {
+        "unlockCliffs": -1,
+        "insiderConcentration": 0,
+        "legalRisk": 0,
+        "treasuryRunway": -1,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "magic-eden",
+      "name": "Magic Eden",
+      "ticker": "ME",
+      "chain": "Solana",
+      "marketCap": 48150000,
+      "fdv": 112100000,
+      "price": 0.112,
+      "athPrice": 17.0,
+      "pctFromAth": -99.3,
+      "circulatingPct": 43,
+      "holders": null,
+      "category": "Marketplace",
+      "description": "Major NFT marketplace with live Solana marketplace and pack surfaces. $24M revenue in 2025. Pivoting to predictions/gambling. 15% revenue to ME buybacks.",
+      "catalysts": [
+        "Solana NFT recovery",
+        "Pack product adoption",
+        "Market share gains"
+      ],
+      "risks": [
+        "99% from ATH",
+        "Marketplace retrenchment",
+        "Weak social moat"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 6,
+        "communityQuality": 4,
+        "tokenLinkage": 5,
+        "marketStructure": 3,
+        "founderExecution": 7,
+        "distributionReflexivity": 5,
+        "valuationAsymmetry": 6,
+        "culturalMoat": 4,
+        "catalystsTiming": 4
+      },
+      "penalties": {
+        "unlockCliffs": -4,
+        "insiderConcentration": -3,
+        "legalRisk": -1,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "tensor",
+      "name": "Tensor",
+      "ticker": "TNSR",
+      "chain": "Solana",
+      "marketCap": 13655093,
+      "fdv": 46786474,
+      "price": 0.0468,
+      "athPrice": 2.23,
+      "pctFromAth": -97.9,
+      "circulatingPct": 29,
+      "holders": null,
+      "category": "Marketplace",
+      "description": "Pro-focused Solana NFT marketplace. 60-70% of Solana NFT volume, but NFT market is dead.",
+      "catalysts": [
+        "Solana NFT recovery",
+        "Market share vs Magic Eden",
+        "Product expansion"
+      ],
+      "risks": [
+        "98% from ATH",
+        "Pro-trader focus vs consumer",
+        "Solana NFT volume dependency"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 4,
+        "communityQuality": 3,
+        "tokenLinkage": 4,
+        "marketStructure": 2,
+        "founderExecution": 6,
+        "distributionReflexivity": 4,
+        "valuationAsymmetry": 6,
+        "culturalMoat": 2,
+        "catalystsTiming": 3
+      },
+      "penalties": {
+        "unlockCliffs": -5,
+        "insiderConcentration": -3,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": -1
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "blur",
+      "name": "Blur",
+      "ticker": "BLUR",
+      "chain": "Ethereum",
+      "marketCap": 53506463,
+      "fdv": 58329845,
+      "price": 0.0194,
+      "athPrice": 5.02,
+      "pctFromAth": -99.6,
+      "circulatingPct": 92,
+      "holders": null,
+      "category": "Marketplace",
+      "description": "Ethereum NFT marketplace for professional traders. Live GMV but 99.6% from ATH. Mercenary user base.",
+      "catalysts": [
+        "Ethereum NFT recovery",
+        "Season 3 rewards",
+        "Blast L2 synergies"
+      ],
+      "risks": [
+        "99.6% from ATH",
+        "Mercenary user base",
+        "Trader-centric not creator-centric"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 4,
+        "communityQuality": 2,
+        "tokenLinkage": 4,
+        "marketStructure": 5,
+        "founderExecution": 5,
+        "distributionReflexivity": 3,
+        "valuationAsymmetry": 5,
+        "culturalMoat": 2,
+        "catalystsTiming": 3
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": -1,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "teamStatus": "Pseudonymous with track record",
+      "activity": "Active"
+    },
+    {
+      "id": "superrare",
+      "name": "SuperRare",
+      "ticker": "RARE",
+      "chain": "Ethereum",
+      "marketCap": 13136819,
+      "fdv": 16023861,
+      "price": 0.016,
+      "athPrice": 3.64,
+      "pctFromAth": -99.6,
+      "circulatingPct": 82,
+      "holders": null,
+      "category": "Creator Economy",
+      "description": "Curated digital art marketplace and social layer. Launched Liquid Editions March 2026. Niche art market.",
+      "catalysts": [
+        "Art market recovery",
+        "Liquid Editions adoption",
+        "Creator onboarding"
+      ],
+      "risks": [
+        "99.6% from ATH",
+        "Thin liquidity",
+        "Niche market"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 3,
+        "communityQuality": 6,
+        "tokenLinkage": 3,
+        "marketStructure": 2,
+        "founderExecution": 5,
+        "distributionReflexivity": 3,
+        "valuationAsymmetry": 7,
+        "culturalMoat": 5,
+        "catalystsTiming": 4
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": 0,
+        "treasuryRunway": -2,
+        "smartContractRisk": 0,
+        "platformDependency": -1
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "apecoin",
+      "name": "ApeCoin",
+      "ticker": "APE",
+      "chain": "Ethereum",
+      "marketCap": 96878697,
+      "fdv": 96308273,
+      "price": 0.0964,
+      "athPrice": 26.7,
+      "pctFromAth": -99.6,
+      "circulatingPct": 100,
+      "holders": null,
+      "category": "NFT/IP",
+      "description": "Governance and utility token for BAYC/Yuga ecosystem. Otherside access, branded experiences. 99.6% from ATH.",
+      "catalysts": [
+        "Otherside launch",
+        "BAYC cultural revival",
+        "Yuga product execution"
+      ],
+      "risks": [
+        "99.6% from ATH",
+        "Yuga underdelivery",
+        "Ecosystem fatigue"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 2,
+        "communityQuality": 4,
+        "tokenLinkage": 3,
+        "marketStructure": 5,
+        "founderExecution": 3,
+        "distributionReflexivity": 3,
+        "valuationAsymmetry": 5,
+        "culturalMoat": 5,
+        "catalystsTiming": 3
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": -1,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": -2
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "virtuals",
+      "name": "Virtuals Protocol",
+      "ticker": "VIRTUAL",
+      "chain": "Base",
+      "marketCap": 457154004,
+      "fdv": 696560462,
+      "price": 0.6996,
+      "athPrice": 5.07,
+      "pctFromAth": -86.3,
+      "circulatingPct": 66,
+      "holders": null,
+      "category": "AI/Entertainment",
+      "description": "Base-native AI agent platform. 18,000+ agents, $3M+ agent-to-agent revenue, Revenue Network launched Feb 2026, $1M/month distributed to agents.",
+      "catalysts": [
+        "AI agent adoption",
+        "Revenue from agent marketplace",
+        "Base ecosystem growth"
+      ],
+      "risks": [
+        "AI narrative dependency",
+        "Revenue lags mindshare",
+        "Not pure consumer social"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 6,
+        "communityQuality": 5,
+        "tokenLinkage": 6,
+        "marketStructure": 5,
+        "founderExecution": 7,
+        "distributionReflexivity": 7,
+        "valuationAsymmetry": 3,
+        "culturalMoat": 5,
+        "catalystsTiming": 7
+      },
+      "penalties": {
+        "unlockCliffs": -2,
+        "insiderConcentration": -1,
+        "legalRisk": -1,
+        "treasuryRunway": 0,
+        "smartContractRisk": -1,
+        "platformDependency": -1
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "echelon-prime",
+      "name": "Echelon Prime",
+      "ticker": "PRIME",
+      "chain": "Ethereum",
+      "marketCap": 25268409,
+      "fdv": 45766912,
+      "price": 0.4124,
+      "athPrice": 28.0,
+      "pctFromAth": -98.5,
+      "circulatingPct": 55,
+      "holders": null,
+      "category": "Gaming",
+      "description": "Native token of Parallel ecosystem. Live sci-fi trading card game, Season 2.5 shipped March 2026, ranked play active.",
+      "catalysts": [
+        "Season updates",
+        "Player growth",
+        "Esports/competitive scene"
+      ],
+      "risks": [
+        "98.5% from ATH",
+        "Gaming sustainability risk",
+        "Mainstream adoption challenge"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 5,
+        "communityQuality": 5,
+        "tokenLinkage": 5,
+        "marketStructure": 3,
+        "founderExecution": 6,
+        "distributionReflexivity": 5,
+        "valuationAsymmetry": 7,
+        "culturalMoat": 4,
+        "catalystsTiming": 5
+      },
+      "penalties": {
+        "unlockCliffs": -3,
+        "insiderConcentration": -2,
+        "legalRisk": 0,
+        "treasuryRunway": -1,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "illuvium",
+      "name": "Illuvium",
+      "ticker": "ILV",
+      "chain": "Ethereum",
+      "marketCap": 37345589,
+      "fdv": 37785325,
+      "price": 3.93,
+      "athPrice": 1911.26,
+      "pctFromAth": -99.8,
+      "circulatingPct": 99,
+      "holders": null,
+      "category": "Gaming",
+      "description": "Token for Illuvium game universe: overworld, arena, collection mechanics. MMO targeting Dec 2026 launch. Major execution scar tissue but live games.",
+      "catalysts": [
+        "MMO Overworld launch Dec 2026",
+        "Arena updates",
+        "Leviathan events"
+      ],
+      "risks": [
+        "99.8% from ATH",
+        "Execution scar tissue",
+        "Treasury token sales pressure",
+        "Slow player growth"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 3,
+        "communityQuality": 3,
+        "tokenLinkage": 4,
+        "marketStructure": 4,
+        "founderExecution": 4,
+        "distributionReflexivity": 3,
+        "valuationAsymmetry": 6,
+        "culturalMoat": 3,
+        "catalystsTiming": 5
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": 0,
+        "treasuryRunway": -3,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "teamStatus": "Doxed",
+      "activity": "Active"
+    },
+    {
+      "id": "collector-crypt",
+      "name": "Collector Crypt",
+      "ticker": "CARDS",
+      "chain": "Solana",
+      "marketCap": 14000000,
+      "fdv": 70000000,
+      "price": 0.035,
+      "athPrice": 0.3832,
+      "pctFromAth": -90.8,
+      "circulatingPct": 20,
+      "holders": 9450,
+      "category": "Consumer/Collectibles",
+      "description": "Solana-based platform tokenizing physical trading cards (primarily Pok\u00e9mon) into redeemable NFTs. $490M cumulative volume, $26.9M net revenue. Gacha machine + marketplace with instant buyback at 85-90% of market value. Revenue declining from $6M/mo peak (Sep 2025) to $3.9M (Jan 2026). Highly concentrated user base \u2014 36 wallets account for 34.6% of revenue.",
+      "catalysts": [
+        "Treasury-backed token model",
+        "Real revenue from physical collectibles",
+        "Expansion beyond Pok\u00e9mon TCG",
+        "Growing RWA narrative"
+      ],
+      "risks": [
+        "Revenue declining from peak",
+        "Only ~20% circulating \u2014 heavy unlock risk",
+        "Extreme user concentration (0.3% of users = 34.6% revenue)",
+        "Competitive pressure from Courtyard"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 7,
+        "communityQuality": 4,
+        "tokenLinkage": 6,
+        "marketStructure": 4,
+        "founderExecution": 6,
+        "distributionReflexivity": 3,
+        "valuationAsymmetry": 4,
+        "culturalMoat": 5,
+        "catalystsTiming": 5
+      },
+      "penalties": {
+        "unlockCliffs": -4,
+        "insiderConcentration": -3,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "teamStatus": "Doxed (Tuom Holmberg, co-founder)",
+      "activity": "Active"
+    }
+  ],
+  "killedTokens": [
+    {
+      "id": "clanker",
+      "name": "Clanker",
+      "ticker": "CLANKER",
+      "chain": "Base",
+      "marketCap": 27067108,
+      "fdv": 27067108,
+      "killGateReason": "Farcaster in life-or-death struggle \u2014 DAU plunged 40%, revenue -85%. Platform structurally broken. Acquiring team not crypto native.",
+      "category": "Social"
+    },
+    {
+      "id": "degen",
+      "name": "Degen",
+      "ticker": "DEGEN",
+      "chain": "Base",
+      "marketCap": 26792263,
+      "fdv": 26792263,
+      "killGateReason": "99% from ATH. Farcaster dependency. Traction is structurally broken \u2014 minimal real engagement.",
+      "category": "Social"
+    },
+    {
+      "id": "guild-of-guardians",
+      "name": "Guild of Guardians",
+      "ticker": "GOG",
+      "chain": "Ethereum",
+      "marketCap": 2771297,
+      "fdv": 3460000,
+      "killGateReason": "99.9% from ATH. Micro-cap at $3.5M FDV. 15K peak players collapsed. Structurally broken user base.",
+      "category": "Gaming"
+    },
+    {
+      "id": "star-atlas",
+      "name": "Star Atlas",
+      "ticker": "ATLAS",
+      "chain": "Solana",
+      "marketCap": 4463598,
+      "fdv": 6710000,
+      "killGateReason": "99.9% from ATH. ~$8K monthly revenue. Economy effectively dead despite 'live' modules.",
+      "category": "Gaming"
+    },
+    {
+      "id": "aurory",
+      "name": "Aurory",
+      "ticker": "AURY",
+      "chain": "Solana",
+      "marketCap": 3310852,
+      "fdv": 4406607,
+      "killGateReason": "99.8% from ATH. Activity unverified. Alpha-stage games with thin public comms. No proven traction.",
+      "category": "Gaming"
+    },
+    {
+      "id": "access-protocol",
+      "name": "Access Protocol",
+      "ticker": "ACS",
+      "chain": "Solana",
+      "marketCap": 8447884,
+      "fdv": 16055918,
+      "killGateReason": "99.3% from ATH. No proven scale adoption. Creator Coins generated hype spikes but no durable traction.",
+      "category": "Creator Economy"
+    },
+    {
+      "id": "animecoin",
+      "name": "Animecoin",
+      "ticker": "ANIME",
+      "chain": "Ethereum",
+      "marketCap": 25353381,
+      "fdv": 45830000,
+      "killGateReason": "97.5% from ATH. Azuki-linked culture coin with unproven product-market fit. anime.com beta has minimal traction. Founder credibility issues from Azuki saga. No demonstrated real usage beyond speculation.",
+      "category": "Entertainment/Fandom"
+    }
+  ],
+  "nfts": [
+    {
+      "id": "pudgy-penguins-nft",
+      "name": "Pudgy Penguins",
+      "chain": "Ethereum",
+      "floorEth": 4.309,
+      "floorSol": null,
+      "floorUsd": 8618,
+      "marketCap": 76600000,
+      "athFloorEth": 36.33,
+      "pctFromAthFloor": -88.1,
+      "change30d": null,
+      "supply": 8888,
+      "holders": 5218,
+      "category": "Consumer Brand",
+      "description": "Strongest consumer NFT brand: PFP plus toys, retail distribution, media, events, PENGU token. $50M+ annual revenue, Pudgy World launched March 2026.",
+      "catalysts": [
+        "Pudgy World game",
+        "Retail expansion",
+        "PENGU token synergies"
+      ],
+      "risks": [
+        "Floor below peak",
+        "Value spread across multiple products",
+        "NFT market sentiment"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 9,
+        "communityQuality": 9,
+        "collectionSinkIdentity": 8,
+        "marketStructure": 7,
+        "founderExecution": 9,
+        "distributionReflexivity": 8,
+        "floorDepthCulturalPremium": 7,
+        "culturalMoat": 9,
+        "catalystsTiming": 8
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "activity": "Active"
+    },
+    {
+      "id": "cryptopunks",
+      "name": "CryptoPunks",
+      "chain": "Ethereum",
+      "floorEth": 29.39,
+      "floorSol": null,
+      "floorUsd": 58780,
+      "marketCap": 587440000,
+      "athFloorEth": 125.0,
+      "pctFromAthFloor": -76.5,
+      "change30d": null,
+      "supply": 9994,
+      "holders": 3999,
+      "category": "Digital Luxury",
+      "description": "Canonical crypto-native collectible. Digital luxury/status asset. Stewardship moved to Infinite Node Foundation in 2025.",
+      "catalysts": [
+        "Institutional adoption",
+        "Node Foundation stewardship",
+        "Cultural permanence"
+      ],
+      "risks": [
+        "Large ticket size",
+        "Limited product expansion",
+        "Status-dependent value"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 5,
+        "communityQuality": 7,
+        "collectionSinkIdentity": 8,
+        "marketStructure": 6,
+        "founderExecution": 5,
+        "distributionReflexivity": 4,
+        "floorDepthCulturalPremium": 9,
+        "culturalMoat": 10,
+        "catalystsTiming": 4
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": -1,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "activity": "Active"
+    },
+    {
+      "id": "mad-lads",
+      "name": "Mad Lads",
+      "chain": "Solana",
+      "floorEth": null,
+      "floorSol": 17.8936,
+      "floorUsd": 2326,
+      "marketCap": 23200000,
+      "athFloorEth": null,
+      "athFloorSol": 229.425,
+      "pctFromAthFloor": -92.2,
+      "change30d": null,
+      "supply": 9968,
+      "holders": 6589,
+      "category": "Community/Platform",
+      "description": "Flagship NFT tied to Backpack wallet/exchange. Social identity layer for Solana power-user community.",
+      "catalysts": [
+        "Backpack exchange growth",
+        "Solana ecosystem expansion",
+        "Community events"
+      ],
+      "risks": [
+        "92% from ATH",
+        "Insider/power-user focus",
+        "Backpack dependency"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 5,
+        "communityQuality": 7,
+        "collectionSinkIdentity": 7,
+        "marketStructure": 4,
+        "founderExecution": 7,
+        "distributionReflexivity": 6,
+        "floorDepthCulturalPremium": 5,
+        "culturalMoat": 6,
+        "catalystsTiming": 5
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": -1,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": -2
+      },
+      "activity": "Active"
+    },
+    {
+      "id": "mocaverse-nft",
+      "name": "Mocaverse",
+      "chain": "Ethereum",
+      "floorEth": 0.289,
+      "floorSol": null,
+      "floorUsd": 578,
+      "marketCap": 5130000,
+      "athFloorEth": 5.475,
+      "pctFromAthFloor": -94.7,
+      "change30d": null,
+      "supply": 8888,
+      "holders": 2353,
+      "category": "Identity/Access",
+      "description": "Animoca's membership/identity NFT feeding into MOCA, AIR accounts, and ecosystem-wide community graph. 3.3M AIR accounts.",
+      "catalysts": [
+        "AIR account growth",
+        "Animoca ecosystem expansion",
+        "Identity utility"
+      ],
+      "risks": [
+        "95% from ATH",
+        "Low volume",
+        "Animoca dependency"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 3,
+        "communityQuality": 4,
+        "collectionSinkIdentity": 5,
+        "marketStructure": 2,
+        "founderExecution": 4,
+        "distributionReflexivity": 3,
+        "floorDepthCulturalPremium": 3,
+        "culturalMoat": 3,
+        "catalystsTiming": 3
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": -2,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": -2
+      },
+      "activity": "Active"
+    },
+    {
+      "id": "claynosaurz",
+      "name": "Claynosaurz",
+      "chain": "Solana",
+      "floorEth": null,
+      "floorSol": 15.5139,
+      "floorUsd": 2017,
+      "marketCap": 20640000,
+      "athFloorEth": null,
+      "athFloorSol": 97.0,
+      "pctFromAthFloor": -84.0,
+      "change30d": null,
+      "supply": 10232,
+      "holders": 3164,
+      "category": "Entertainment/IP",
+      "description": "Solana-native art brand by animation talent. Story, characters, staking, collectibles. Achievement badges and staking updates March 2026.",
+      "catalysts": [
+        "Animation content",
+        "IP licensing",
+        "Staking rewards"
+      ],
+      "risks": [
+        "84% from ATH",
+        "Smaller liquidity",
+        "Early commercialization"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 4,
+        "communityQuality": 7,
+        "collectionSinkIdentity": 6,
+        "marketStructure": 3,
+        "founderExecution": 7,
+        "distributionReflexivity": 5,
+        "floorDepthCulturalPremium": 5,
+        "culturalMoat": 7,
+        "catalystsTiming": 5
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": 0,
+        "treasuryRunway": -1,
+        "smartContractRisk": 0,
+        "platformDependency": -1
+      },
+      "activity": "Active"
+    },
+    {
+      "id": "azuki-nft",
+      "name": "Azuki",
+      "chain": "Ethereum",
+      "floorEth": 0.752,
+      "floorSol": null,
+      "floorUsd": 1504,
+      "marketCap": 15040000,
+      "athFloorEth": 31.8,
+      "pctFromAthFloor": -97.6,
+      "change30d": null,
+      "supply": 10000,
+      "holders": 4428,
+      "category": "Culture/Fandom",
+      "description": "Anime-native NFT tied to Animecoin ecosystem. anime.com beta and Studio Azuki active. Tokenized fandom and identity.",
+      "catalysts": [
+        "anime.com growth",
+        "Studio Azuki content",
+        "ANIME token synergies"
+      ],
+      "risks": [
+        "98% from ATH",
+        "Founder baggage",
+        "Anime thesis unproven"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 3,
+        "communityQuality": 6,
+        "collectionSinkIdentity": 5,
+        "marketStructure": 3,
+        "founderExecution": 4,
+        "distributionReflexivity": 4,
+        "floorDepthCulturalPremium": 5,
+        "culturalMoat": 7,
+        "catalystsTiming": 5
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": -1,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "activity": "Active"
+    },
+    {
+      "id": "bayc",
+      "name": "Bored Ape Yacht Club",
+      "chain": "Ethereum",
+      "floorEth": 5.45,
+      "floorSol": null,
+      "floorUsd": 10900,
+      "marketCap": 109000000,
+      "athFloorEth": 153.7,
+      "pctFromAthFloor": -96.5,
+      "change30d": null,
+      "supply": 9998,
+      "holders": 5645,
+      "category": "Cultural Asset",
+      "description": "Legacy blue-chip NFT anchoring Yuga ecosystem and APE/Otherside cultural layer. Still live brand/community post-2021 collapse.",
+      "catalysts": [
+        "Otherside launch",
+        "Yuga product execution",
+        "Cultural revival"
+      ],
+      "risks": [
+        "97% from ATH",
+        "Yuga execution drag",
+        "Brand fatigue"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 2,
+        "communityQuality": 5,
+        "collectionSinkIdentity": 5,
+        "marketStructure": 5,
+        "founderExecution": 3,
+        "distributionReflexivity": 3,
+        "floorDepthCulturalPremium": 5,
+        "culturalMoat": 7,
+        "catalystsTiming": 3
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": -1,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": -1
+      },
+      "activity": "Active"
+    },
+    {
+      "id": "doodles-nft",
+      "name": "Doodles",
+      "chain": "Ethereum",
+      "floorEth": 0.505,
+      "floorSol": null,
+      "floorUsd": 1010,
+      "marketCap": 10100000,
+      "athFloorEth": 23.95,
+      "pctFromAthFloor": -97.9,
+      "change30d": null,
+      "supply": 9998,
+      "holders": 4488,
+      "category": "Entertainment/IP",
+      "description": "Consumer entertainment/IP NFT brand linked to DOOD and DreamNet. Flagship status/access asset for Doodles universe.",
+      "catalysts": [
+        "DreamNet launch",
+        "DOOD token traction",
+        "Entertainment IP expansion"
+      ],
+      "risks": [
+        "98% from ATH",
+        "Execution risk",
+        "Consumer traction unproven"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 3,
+        "communityQuality": 5,
+        "collectionSinkIdentity": 4,
+        "marketStructure": 3,
+        "founderExecution": 5,
+        "distributionReflexivity": 4,
+        "floorDepthCulturalPremium": 4,
+        "culturalMoat": 6,
+        "catalystsTiming": 5
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": 0,
+        "treasuryRunway": -1,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "activity": "Active"
+    },
+    {
+      "id": "lil-pudgys",
+      "name": "Lil Pudgys",
+      "chain": "Ethereum",
+      "floorEth": 0.4751,
+      "floorSol": null,
+      "floorUsd": 950,
+      "marketCap": 20840000,
+      "athFloorEth": 4.535,
+      "pctFromAthFloor": -89.5,
+      "change30d": null,
+      "supply": 21929,
+      "holders": 10633,
+      "category": "Consumer Brand",
+      "description": "Lower-ticket entry to Pudgy ecosystem with community experiences, brand activations, and IP opportunities. Consumer funnel asset.",
+      "catalysts": [
+        "Pudgy ecosystem growth",
+        "Pudgy World game",
+        "Brand expansion"
+      ],
+      "risks": [
+        "89.5% from ATH",
+        "Derivative value",
+        "Less prestige than flagship"
+      ],
+      "killGate": "pass",
+      "killGateNote": null,
+      "scores": {
+        "productTruth": 7,
+        "communityQuality": 7,
+        "collectionSinkIdentity": 6,
+        "marketStructure": 5,
+        "founderExecution": 9,
+        "distributionReflexivity": 6,
+        "floorDepthCulturalPremium": 5,
+        "culturalMoat": 7,
+        "catalystsTiming": 7
+      },
+      "penalties": {
+        "unlockCliffs": 0,
+        "insiderConcentration": 0,
+        "legalRisk": 0,
+        "treasuryRunway": 0,
+        "smartContractRisk": 0,
+        "platformDependency": 0
+      },
+      "activity": "Active"
+    }
+  ],
+  "killedNfts": [
+    {
+      "id": "degods",
+      "name": "DeGods",
+      "chain": "Ethereum",
+      "floorUsd": 555,
+      "marketCap": 4990000,
+      "killGateReason": "98% from ATH. Zero meaningful volume. DeLabs leadership churn. Community hollowed out.",
+      "category": "Culture/Community"
+    },
+    {
+      "id": "nouns",
+      "name": "Nouns",
+      "chain": "Ethereum",
+      "floorUsd": 1160,
+      "marketCap": 2134000,
+      "killGateReason": "99.6% from ATH. Zero trading volume. 516 holders. Governance complexity paralyzes action.",
+      "category": "Community/Governance"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-03-12",
+    "methodology": "Kill Gate \u2192 100-point weighted score \u2192 Penalty overlay. Product truth = revenue/usage (NOT volume). Token scored on specific liquid asset, not parent brand halo.",
+    "scoringVersion": "v2",
+    "excludedProjects": [
+      "Friend.tech",
+      "Stars Arena",
+      "BitClout/DeSo",
+      "Rally",
+      "Whale",
+      "Monaco",
+      "Loot"
+    ],
+    "chains": {
+      "Solana": {
+        "color": "#9945FF",
+        "tokens": 5,
+        "nfts": 2
+      },
+      "Base": {
+        "color": "#0052FF",
+        "tokens": 3,
+        "nfts": 0
+      },
+      "Ethereum": {
+        "color": "#627EEA",
+        "tokens": 7,
+        "nfts": 7
+      }
+    }
+  }
+}
